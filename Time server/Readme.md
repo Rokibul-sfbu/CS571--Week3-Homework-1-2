@@ -1,6 +1,6 @@
 Step 1: Install Node.js in Ubuntu:
 
-Step 2: Created New js file in the directory:
+Step 2: Creat new js file in the directory:
   touch Jason-api-time-server.js
 
 Code Explanation:
